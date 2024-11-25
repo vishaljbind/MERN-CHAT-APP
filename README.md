@@ -2,6 +2,8 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+DEMO LINK:https://mern-chat-app-zyj0.onrender.com
+
 
 Highlights:
 
